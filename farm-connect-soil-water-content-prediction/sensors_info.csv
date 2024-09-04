@@ -1,0 +1,18 @@
+﻿Sensor Name,Description
+1Air Humidity,Air humidity
+1AirTemperature,Air temperature
+1LightHigh,Light meter above 65.53 kLux
+1LightLow,Light meter under 65.53 kLux
+11Rain Accumulate (mm),Accumulate rain volume
+11Rain count,Accumulate rain count
+12WindSpeed,Wind speed
+13WindDirection,"Wind direction (0=N, 1=NE, 2=E, 3=SE, 4=S, 5=SW, 6=W, 7=NW)"
+23SoilWC ค.ชื้นดิน,Soil water content at 15 cm underground
+23SoilTemp.อุณหภูมิดิน,Soil temperature at 15 cm underground
+23SoilEC,Soil electricity conductivity at 15 cm underground
+23SoilpH,Soil pH at 15 cm underground
+26N,Soil Nitrogen measurement at 10 cm underground
+26P,Soil Phophorus measurement at 10 cm underground
+26K,Soil Potassium measurement at 10 cm underground
+29SoilTension,Soil Tension measurement at 30 cm underground
+flow1,"flow sensor area 1 (1=on, 2=off)"
